@@ -13,7 +13,7 @@ This repository contains a deep learning pipeline for classifying lumbar spine d
 ## Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/lumbar-spine-classification.git
+   git clone https://github.com/AbdulBarakat/lumbar-spine-classification.git
    cd lumbar-spine-classification
    ```
 
